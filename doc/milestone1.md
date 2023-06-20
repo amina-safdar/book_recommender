@@ -3,7 +3,7 @@
 ---
 
 ### About the data
-The data describes the reading behaviour of Manning Publications' liveBook platform users. It contains 5000 observations, each defined by nine features. 
+The data describes the reading behaviour of Manning Publications' liveBook platform users. It contains 4999 observations, each defined by nine features. 
 
 | Feature                 	| Definition                                                     	|
 |:------------------------	|:---------------------------------------------------------------	|
